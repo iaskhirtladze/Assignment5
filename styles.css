@@ -1,0 +1,36 @@
+.content {
+    width: 400px;
+    margin: auto;
+    height: 900px;
+    align-items: center;
+    display: flex;
+    justify-content: center;  
+    justify-content: space-between;
+ 
+}
+
+.flex {
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.button{
+    background-color: lightblue;
+    border: lightblue;
+}
+
+.number{
+    padding: auto;
+    text-align: center;
+    font-weight: bolder;
+}
+
+/* ეს ჰოვერი რატომღავ არ მიმუშავებს და ვერ მივხვდი რატომ */
+.button :hover{
+    background-color: blue;
+    border-color : blue;
+}
+
+
+
